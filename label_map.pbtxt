@@ -1,8 +1,8 @@
 item {
     id: 1
-    name: 'with_mask'
+    name: '0'
 }
 item {
     id: 2
-    name: 'without_mask'
+    name: '1'
 }
